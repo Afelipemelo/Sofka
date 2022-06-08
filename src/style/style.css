@@ -1,0 +1,10 @@
+body{
+    margin: 0
+}
+.NavBar{
+    background: #34495E ;
+}
+.InicioPuntaje{
+    display: flex;
+    justify-content: end;
+}
