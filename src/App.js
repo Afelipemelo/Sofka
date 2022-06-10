@@ -1,7 +1,7 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import NavBar from "./components/nabar/NavBar";
-import Historial from "./components/juego/historial";
-import Juego from "./components/juego/juego";
+import NavBar from "./components/navBar/NavBar";
+import Historial from "./components/play/record";
+import Juego from "./components/play/play";
 import './style/style.css'
 function App() {
   return (

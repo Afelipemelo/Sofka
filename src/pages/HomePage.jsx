@@ -1,6 +1,6 @@
 import React,{Fragment} from 'react'
-import NavBar from '../components/nabar/NavBar';
-import Juego from '../components/juego/juego';
+import NavBar from '../components/navBar/NavBar';
+import Juego from '../components/play/play';
 const Home = () => {
     return ( 
         <Fragment>

@@ -1,6 +1,6 @@
 import React,{Fragment, useEffect, useState} from 'react';
 import { Modal, Button, Text, Input, Image ,Card, Grid} from "@nextui-org/react";
-import {PreguntasNivel1} from '../questions/preguntas'
+import {PreguntasNivel1} from '../questions/questions'
 import Swal from 'sweetalert2'
 
 const Juego = () => {
