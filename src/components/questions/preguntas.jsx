@@ -1,4 +1,4 @@
-export const PreguntasNivelUno = [
+export const PreguntasNivel1 = [
     { 
         pregunta: "¿Qué parte de la capilla sixtina pintó Miguel Ángel?",
         nivel: 1,
@@ -35,9 +35,7 @@ export const PreguntasNivelUno = [
         categoria: "historia",
         opciones: ["Aleman","Australiano", "Polaco", "Ruso"],
         respuesta: "Australiano"
-    }
-]
-export const PreguntasNivelDos = [
+    },
     {
         pregunta: "¿Quien pinto La Gioconda o mas conocida como La Monna Lisa?",
         nivel: 2,
@@ -73,9 +71,7 @@ export const PreguntasNivelDos = [
         categoria: "historia",
         opciones: ["John F. Kennedy","Robert Kennedy", " Abraham Lincoln", "Thomas Jefferson"],
         respuesta: "John F. Kennedy"
-    }
-]
-export const PreguntasNivelTres = [
+    },
     {
         pregunta: "¿Cuáles son las flores más famosas pintadas por Van Gogh?",
         nivel: 3,
@@ -111,9 +107,7 @@ export const PreguntasNivelTres = [
         categoria: "historia",
         opciones: ["En 1542","En 1498", "En 1592", "En 1942"],
         respuesta: "En 1942"
-    }
-]
-export const PreguntasNivelCuatro = [
+    },
     {
         pregunta: "¿Qué se conoce como el séptimo arte?",
         nivel: 4,
@@ -147,11 +141,9 @@ export const PreguntasNivelCuatro = [
         pregunta: "¿Quien fue el primer presidente de colombia?",
         nivel: 4,
         categoria: "historia",
-        opciones: ["Francisco de Paula Santander","Tomas Cipriano De Mosquera ", "Rafael Jose Urdaneta", "Pedro Alcantara Herran"],
+        opciones: ["Francisco de Paula Santander","Tomas Cipriano De Mosquera ", "Rafael Jose Urdaneta", "Simon Bolivar"],
         respuesta: "Simon Bolivar"
-    }
-]
-export const PreguntasNivelCinco = [
+    },
     {
         pregunta: "¿A qué estilo corresponde la Catedral de Notre Dame de París?",
         nivel: 5,
@@ -189,6 +181,7 @@ export const PreguntasNivelCinco = [
         respuesta: "476"
     }
 ]
+
 
 
 
