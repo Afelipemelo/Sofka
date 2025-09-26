@@ -5,7 +5,7 @@ import Swal from 'sweetalert2'
 
 const Juego = () => {
 
-  //ASIGNAMOS UNA BARIABLE AL LOCALSTORAGE SI ESTA BACIO 
+  //ASIGNAMOS UNA VARIABLE AL LOCALSTORAGE SI ESTA VACIO 
   let userIniciales = JSON.parse(localStorage.getItem("usuarios"));
    if(!userIniciales ){
     userIniciales = [];
